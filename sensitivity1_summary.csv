@@ -1,0 +1,6 @@
+Metric,Value
+MeanAbsDelta(Rank_mean sigma=0.3 vs 0.5),0.7122250595846101
+MeanAbsDelta(Rank_mean sigma=1 vs 0.5),0.8325229826353422
+MeanOVL(sigma=0.3 vs 0.5),0.6460010214504597
+MeanOVL(sigma=0.3 vs 1),0.5489240721824992
+MeanOVL(sigma=0.5 vs 1),0.5954971058903643

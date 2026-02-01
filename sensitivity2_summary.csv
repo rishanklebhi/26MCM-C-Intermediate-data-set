@@ -1,0 +1,11 @@
+﻿Season,Comparison,Metric,Value
+27,percentage vs rank,MAE_rank(weekly Rank_mean),0.9029696969696969
+27,Bobby Bones,SeasonAvgRankMean_percent,7.5329999999999995
+27,Bobby Bones,SeasonAvgRankMean_rank,7.652666666666667
+27,Bobby Bones,PredSeasonRank_percent (1=best),8.0
+27,Bobby Bones,PredSeasonRank_rank (1=best),8.0
+28,rank+two-step vs percent+two-step,MAE_rank(weekly Rank_mean),0.46888888888888897
+28,Entertainment,AvgAbsWeekToWeekRankChange (rank+two-step),1.8985805555555557
+28,Entertainment,AvgAbsWeekToWeekRankChange (percent+two-step),1.9650972222222223
+28,Fairness,"|Spearman(Judge, PredSeasonRank)| (rank+two-step)",0.9090909090909092
+28,Fairness,"|Spearman(Judge, PredSeasonRank)| (percent+two-step)",0.9300699300699302

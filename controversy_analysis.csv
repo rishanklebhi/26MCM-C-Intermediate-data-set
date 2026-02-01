@@ -1,0 +1,5 @@
+Season,Contestant,Actual_Rank,Simulated_Rank_Method_A,Simulated_Rank_Method_B,Simulated_Rank_Method_C,Status_Change
+2,Jerry Rice,2,8,5,8,Worse in Method A (-6); Worse in Method B (-3); Worse in Method C (-6)
+4,Billy Ray Cyrus,5,10,10,6,Worse in Method A (-5); Worse in Method B (-5); Worse in Method C (-1)
+11,Bristol Palin,3,10,10,10,Worse in Method A (-7); Worse in Method B (-7); Worse in Method C (-7)
+27,Bobby Bones,1,5,5,10,Worse in Method A (-4); Worse in Method B (-4); Worse in Method C (-9)

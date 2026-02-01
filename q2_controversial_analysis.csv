@@ -1,0 +1,22 @@
+﻿contestant,season,week,historical_method,rank_would_eliminate,percent_would_eliminate,actual_eliminated,contestant_eliminated_by_rank,contestant_eliminated_by_percent,contestant_actually_eliminated,benefited_from_system
+Bobby Bones,27,1,percentage,Nikki Glaser,Joe Amabile,Nikki Glaser,False,False,False,False
+Bobby Bones,27,2,percentage,Danelle Umstead,Danelle Umstead,Danelle Umstead,False,False,False,False
+Bobby Bones,27,3,percentage,Joe Amabile,Joe Amabile,Nancy McKeon,False,False,False,False
+Bobby Bones,27,4,percentage,Joe Amabile,Joe Amabile,Tinashe,False,False,False,False
+Bobby Bones,27,6,percentage,Mary Lou Retton,Mary Lou Retton,Mary Lou Retton,False,False,False,False
+Jerry Rice,2,1,rank,Kenny Mayne,Kenny Mayne,Kenny Mayne,False,False,False,False
+Jerry Rice,2,2,rank,Master P,Master P,Tatum O'Neal,False,False,False,False
+Jerry Rice,2,3,rank,Jerry Rice,Master P,Giselle Fernandez,True,False,False,False
+Jerry Rice,2,4,rank,Master P,Master P,Master P,False,False,False,False
+Jerry Rice,2,5,rank,Tia Carrere,Tia Carrere,Tia Carrere,False,False,False,False
+Jerry Rice,2,6,rank,George Hamilton,George Hamilton,George Hamilton,False,False,False,False
+Jerry Rice,2,7,rank,Jerry Rice,Jerry Rice,Lisa Rinna,True,True,False,False
+Bristol Palin,11,1,percentage,Michael Bolton,Michael Bolton,David Hasselhoff,False,False,False,False
+Bristol Palin,11,2,percentage,The Situation,The Situation,Michael Bolton,False,False,False,False
+Bristol Palin,11,3,percentage,Bristol Palin,The Situation,Margaret Cho,True,False,False,True
+Bristol Palin,11,4,percentage,The Situation,The Situation,The Situation,False,False,False,False
+Bristol Palin,11,5,percentage,Audrina Patridge,Bristol Palin,Florence Henderson,False,True,False,False
+Bristol Palin,11,6,percentage,Kurt Warner,Kurt Warner,Audrina Patridge,False,False,False,False
+Bristol Palin,11,7,percentage,Kurt Warner,Kurt Warner,Rick Fox,False,False,False,False
+Bristol Palin,11,8,percentage,Bristol Palin,Bristol Palin,Kurt Warner,True,True,False,False
+Bristol Palin,11,9,percentage,Bristol Palin,Bristol Palin,Brandy,True,True,False,False
